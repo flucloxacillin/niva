@@ -1,0 +1,22 @@
+Package: niva
+Type: Package
+Title: Package For NICU Research
+Version: 0.1.0
+Author: Jonathan Tjerkaski <jonathan.tjerkaski@stud.ki.se>
+Maintainer: Jonathan Tjerkaski <jonathan.tjerkaski@stud.ki.se>
+Description: This package includes functions that are used by the neurotrauma research group at Karolinska Institutet.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    mice,
+    tidymodels,
+    dplyr,
+    rms,
+    caTools,
+    MASS

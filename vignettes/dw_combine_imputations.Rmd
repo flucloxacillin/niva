@@ -1,0 +1,21 @@
+---
+title: "dw_combine_imputations vignette"
+output: rmarkdown::html_vignette
+author: Jonathan Tjerkaski
+date: "'r Sys.Date()'"
+vignette: >
+  %\VignetteIndexEntry{dw_combine_imputations}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(niva)
+```
