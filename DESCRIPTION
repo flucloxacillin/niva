@@ -20,3 +20,5 @@ Imports:
     rms,
     caTools,
     MASS
+URL: https://github.com/flucloxacillin/niva
+BugReports: https://github.com/flucloxacillin/niva/issues
